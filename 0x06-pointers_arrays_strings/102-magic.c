@@ -1,11 +1,5 @@
 #include <stdio.h>
 
-/**
- * main - print out the value of an item in an array
- *
- * Return: 0 if successfull
-*/
-
 int main(void)
 {
 	int n;
