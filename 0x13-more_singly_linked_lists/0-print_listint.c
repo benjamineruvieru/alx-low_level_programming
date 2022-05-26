@@ -19,7 +19,3 @@ size_t print_listint(const listint_t *h)
 
 	return (num);
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-S
