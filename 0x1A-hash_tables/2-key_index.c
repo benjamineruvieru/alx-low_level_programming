@@ -5,7 +5,7 @@
  * @key: the key
  * @size: size of the array of the hash table
  *
- * Returns: the index of the key
+ * Return: the index of the key
  */
 unsigned long int key_index(const unsigned char *key, unsigned long int size)
 {
