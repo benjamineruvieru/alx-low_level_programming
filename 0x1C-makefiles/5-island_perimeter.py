@@ -1,12 +1,12 @@
 #!/usr/bin/python3
 """
-Technical interview preparation
+Technical interview preparation.
 """
 
 
 def island_perimeter(grid):
     """Returns the perimeter of the island in grid."""
-    
+
     perimeter = 0
     pos = 0
     for row in grid:
